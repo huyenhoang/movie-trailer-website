@@ -59,7 +59,43 @@ This command returns the version
 
 # Launching the site
 
+## With Python IDLE
+
 Run the `entertainment.py` module by double left-clicking the file or right click, then select 'Edit with IDLE', then 'Run', then 'Run Module'. This can also been accomplished by simply pressing F5.
+
+## With Command Line
+
+### On Mac
+
+1. Create a folder with these files. Example `Project 1 - Movie Trailer Website`
+
+2. Open Applications folder, go to Utilties, and open Terminal.
+
+3. Type `cd` followed by the name of the folder created in step 1.
+
+4. Type `python ./enterainment.py` to to launch the program.
+
+### On Windows
+
+1. Create a folder with these files. Example, `Project 1 - Movie Trailer Website`
+
+2. In the Start menu, select "Run...", and type in `cmd`. This will cause the Windows terminal to open. Another way to do this is search for 'Command Prompt'.
+
+3. Open the file `Project 1 - Movie Trailer Website` (or whatever you renamed it to). 
+
+4. Type `cd C:\Desktop\Project 1 - Movie Trailer Website`
+
+5. Type `entertainment.py` to launch the program.
+
+### On Linux
+
+1. Create a folder with these files. Example, `Project 1 - Movie Trailer Website`
+
+2. Open up the Terminal. Make sure you know if you're in KDE or GNOME.
+
+3. Type `cd ~/Project 1- Movie Trailer Website` to go into the folder created in step 1. Hit Enter.
+
+4. Type `python ./entertainment.py` to launch the program.
 
 # Customization
 
