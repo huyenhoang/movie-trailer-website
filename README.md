@@ -57,7 +57,7 @@ This command returns the version
 
 3. The Python module named `entertainment.py` contains the list of instances of `class Movie`. 
 
-## Launching the site
+# Launching the site
 
 Run the `entertainment.py` module by double left-clicking the file or right click, then select 'Edit with IDLE', then 'Run', then 'Run Module'. This can also been accomplished by simply pressing F5.
 
