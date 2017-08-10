@@ -9,7 +9,7 @@ Running the Python modules requires Python 2.7.9.
 
 ## Files
 
-1.The file `media.py` contains the `class Movie` which takes four arguments: self, the title of the movie, the poster image, and the trailer link. The function `show_trailer` within this class opens the browser to the url of the movie trailer.
+1. The file `media.py` contains the `class Movie` which takes four arguments: self, the title of the movie, the poster image, and the trailer link. The function `show_trailer` within this class opens the browser to the url of the movie trailer.
 
 2. The Python module named 'fresh_tomatoes.py' contains function `open_movies_page()` which will take in the list of movies and generate an HTML file with the content and render a website with the list of movies.
 
