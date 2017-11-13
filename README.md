@@ -1,5 +1,5 @@
 # movie-trailer-website
-View trailers of movies. This simple site is written using HTML, CSS, Bootstrap to displays the official YouTube trailer for six movies that will bring you nostalgia from a Pyton class structure.
+View trailers of movies. This simple site is written using HTML, CSS, Bootstrap to displays the official YouTube trailer for six movies that will bring you nostalgia from a Python class structure.
 
 # Installation
 
